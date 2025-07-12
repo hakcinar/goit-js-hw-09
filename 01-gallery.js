@@ -3,4 +3,4 @@ import"./assets/styles--AMUifJa.js";import{S as i}from"./assets/vendor-CgTBfC_f.
           <img class="gallery__image" src="${o}" alt="${a}" />
         </a>
       </li>`).join("");e.insertAdjacentHTML("beforeend",n);new i(".gallery a",{captionsData:"alt",captionDelay:250,scrollZoom:!1});
-//# sourceMappingURL=page-2.js.map
+//# sourceMappingURL=01-gallery.js.map
